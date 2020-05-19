@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product id="prod1">
+        <productTitle>Små EL</productTitle>
+        <productText><![CDATA[I vores butik tilbyder vi dig et fint udvalg af husholdningsapparater og elektriske produkter til personlig pleje til meget gode priser.                 
+                     ]]>
+        </productText>
+        <medantal>1</medantal>
+        <medids>1</medids>
+    </product>
+    <product id="prod2">
+        <productTitle>Hårde hvidevarer</productTitle>
+        <productText><![CDATA[Vi tilbyder et stort og spændende udvalg af kvalitetsprodukter i hårde hvidevarer.
+                              Hvis du har spørgsmål eller har brug for rådgivning, hjælper vi dig gerne.
+                     ]]>
+        </productText>
+        <medantal>1</medantal>
+        <medids>1</medids>
+    </product>
+    <product id="prod3">
+        <productTitle>Radio/TV</productTitle>
+        <productText><![CDATA[Indenfor Radio/TV finder du altid nogle af de nyeste apparater fra førende producenter hos os. 
+                              Hvis du har problemer med dit Radio/TV apparat tilbyder vi teknisk reparation og rådgivning.
+                     ]]>
+        </productText>
+        <medantal>2</medantal>
+        <medids>4,1</medids>
+    </product>
+    <product id="prod4">
+        <productTitle>IT/Mobil</productTitle>
+        <productText><![CDATA[Salg af IT udstyr og mobiltelefoner.
+                              Vi rådgiver dig gerne inden købet.<br>
+                              Service og reparation af PC, mobiler og Tablet.
+                              Vi har et stort udvalg i IT-tilbehør.
+                     ]]>
+        </productText>
+        <medantal>2</medantal>
+        <medids>2,3</medids>
+    </product>
+    <product id="prod5">
+        <productTitle>Antenner/Parabol</productTitle>
+        <productText><![CDATA[Vi rådgiver omkring og opsætter alt inden for antenne- og parabolanlæg.
+                              Vi kommer i et stort geografisk område.
+                              Vi leverer kort til TV udbydere.
+                     ]]>
+        </productText>
+        <medantal>1</medantal>
+        <medids>4</medids>
+    </product>
+</products>

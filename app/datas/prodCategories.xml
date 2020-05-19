@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <products>
+        <prodItem id="1">
+            <prodTitle>Små EL</prodTitle>
+            <prodIMG>smaal-el.png</prodIMG>
+        </prodItem>
+        <prodItem id="2">
+            <prodTitle>Hårde hvidevarer</prodTitle>
+            <prodIMG>hvidevarer.png</prodIMG>
+        </prodItem>
+        <prodItem id="3">
+            <prodTitle>Radio/TV</prodTitle>
+            <prodIMG>tvradio.png</prodIMG>
+        </prodItem>
+        <prodItem id="4">
+            <prodTitle>IT/Mobil</prodTitle>
+            <prodIMG>pcinternet.png</prodIMG>
+        </prodItem>
+        <prodItem id="5">
+            <prodTitle>Antenner/Parabol</prodTitle>
+            <prodIMG>antenner.png</prodIMG>
+        </prodItem>
+    </products>
+    <aboutText>
+        <aboutTitle>EURONICS Radio Vest Tarm</aboutTitle>
+        <aboutTxt>
+            <![CDATA[
+                 Radio Vest er en lokal elektronikbutik med Radio/TV og Hårde hvidevarer. 
+                 Vi har drevet butik og Radio/TV værksted i Tarm siden 1976. 
+                 Vi er tilknyttet Euronics, der er en af europas største elektronikkæder. <br><br>
+                 Med et butiksareal på 300m² har vi et bredt udvalg af varer indenfor Radio/TV, 
+                 IT-produkter, hårde hvidevarer, små-EL og mobiltelefoner. Antennearbejde,
+                 reparation af radio/TV og PC hjælp er en stor del af vores daglige arbejde.<br><br>
+                 Vi er i en sund udvikling, hvor dygtige medarbejdere sætter kvalitet og god service i højsædet.<br><br>
+                 Det er vores mål at give kunden den bedste oplevelse.
+            ]]>
+        </aboutTxt>
+    </aboutText>
+</page>

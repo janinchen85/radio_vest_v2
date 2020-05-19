@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personal>
+    <medarbejder id="1">
+        <navn>Jan Andersen</navn>
+        <email>radio-vest@radio-vest.dk</email>
+        <telefon>97371760</telefon>
+        <mobile></mobile>
+        <smallIMG>jan_small.png</smallIMG>
+        <bigIMG>jan.png</bigIMG>
+        <text><![CDATA[
+                Jeg er All-Round indenfor alle vores produkter i butikken.<br><br> 
+                Specielt kan jeg vejlede dig indenfor gruppen af små-EL, hårde hvidevarer, Radio/TV, IT/mobil produkter og foretage mindre reparationer i vores frontværksted.<br><br>
+                Indenfor mobiltelefoner har jeg kontakten til vores udbyder indenfor telefoni.
+              ]]>
+        </text>
+    </medarbejder>
+    <medarbejder id="2">
+        <navn>Carsten Dyndegaard</navn>
+        <email>Carsten@radio-vest.dk </email>
+        <telefon>97371760</telefon>
+        <mobile></mobile>
+        <smallIMG>carsten_small.png</smallIMG>
+        <bigIMG>carsten.png</bigIMG>
+        <text><![CDATA[
+                Har du brug for hjælp til IT-produkter?<br><br> 
+                Det er ikke noget problem. Ud fra dit behov finder vi en løsning, der passer til dig.<br><br> 
+                Vi kan installere og opsætte dit nye produkt uanset om det er tablet, PC, 
+                mobiltelefon, GPS, printer eller netværksarbejde i hjemmet.
+              ]]>
+        </text>
+    </medarbejder>
+    <medarbejder id="3">
+        <navn>Lars Prip</navn>
+        <email>radio-vest@radio-vest.dk </email>
+        <telefon>97371760</telefon>
+        <mobile></mobile>
+        <smallIMG>lars_small.png</smallIMG>
+        <bigIMG>lars.png</bigIMG>
+        <text><![CDATA[
+                Har du brug for hjælp til din PC eller mobiltelefon?<br><br>  
+                Det er ikke noget problem, sammen finder vi løsningen.
+              ]]>
+        </text>
+    </medarbejder>
+    <medarbejder id="4">
+        <navn>Jacob Kjeldsen</navn>
+        <email>jk@radio-vest.dk </email>
+        <telefon>97371760</telefon>
+        <mobile>40371760</mobile>
+        <smallIMG>jacob_small.png</smallIMG>
+        <bigIMG>jacob.png</bigIMG>
+        <text><![CDATA[
+                Jeg er specialisten indenfor Radio/TV og antenner/paraboler.<br>
+                Jeg hjælper med rådgivning, opsætning og indstilling af Radio/TV og antenner mv, i et stort geografisk område.<br><br>   
+                Jeg rådgiver omkring og sælger kort for TV udbydere.
+             ]]>
+        </text>
+    </medarbejder>
+</personal>

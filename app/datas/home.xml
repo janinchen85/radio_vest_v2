@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <brand>euronicsgroup.png</brand>
+    <storeName>Radio Vest Tarm</storeName>
+    <slogan><![CDATA[Din lokale fagmand<br>
+                     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 300m² butik med elektronik
+            ]]>
+    </slogan>
+    <navigation>
+        <navitem><![CDATA[<a class="nav-link" id="item1" href="#home">Forside</a>]]></navitem>
+        <navitem><![CDATA[<a class="nav-link" id="item2" href="#produkter">Produkter</a>]]></navitem>
+        <navitem><![CDATA[<a class="nav-link" id="item3" href="#">Opret PC</a>]]></navitem>
+        <navitem><![CDATA[<a class="nav-link" id="item4" href="#produkter">Om Os</a>]]></navitem>
+        <navitem><![CDATA[<a class="nav-link" id="item5" href="#contact">Kontakt</a>]]></navitem>
+        <navitem><![CDATA[<a class="nav-link" id="item6" href="#findos">Find Os</a>]]></navitem>
+    </navigation>
+    <attributes>
+        <attribute>
+            <attrImage>salg.png</attrImage>
+            <attrName>SALG</attrName>
+            <attrText>Vi har altild gode tilbud til dig</attrText>
+        </attribute>
+        <attribute>
+            <attrImage>reparation.png</attrImage>
+            <attrName>REPARATION</attrName>
+            <attrText>Vi tage hånd om mindre og større reparationer</attrText>
+        </attribute>
+        <attribute>
+            <attrImage>support.png</attrImage>
+            <attrName>SUPPORT</attrName>
+            <attrText>Vort erfarene team vil altid finde professionelle løsninger</attrText>
+        </attribute>
+    </attributes>
+</page>
